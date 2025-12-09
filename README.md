@@ -12,7 +12,7 @@ A task management application built with **React** and **TypeScript**, supportin
 - 📁 Organized, scalable project structure
 
 ##  Live Demo:
-Try the live app: [Todo App Demo](https://anastasia-kravchuk.github.io/TodoApp/)
+Try the live app: [Todo App Demo](https://anastasia-kravchuk.github.io/todo-app-react-typescript/)
 
 ## 💻 Technologies used
 
