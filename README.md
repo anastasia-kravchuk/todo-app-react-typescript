@@ -11,7 +11,7 @@ A task management application built with **React** and **TypeScript**, supportin
 - ✅ Code quality enforced with ESLint
 - 📁 Organized, scalable project structure
 
-##  Live Demo: 
+##  Live Demo:
 Try the live app: [Todo App Demo](https://anastasia-kravchuk.github.io/TodoApp/)
 
 ## 💻 Technologies used
@@ -19,15 +19,15 @@ Try the live app: [Todo App Demo](https://anastasia-kravchuk.github.io/TodoApp/)
 - **Frontend**: React, TypeScript
 - **Styling**: SCSS
 - **State Management**: useState, useEffect
-- **API**: Fetch 
+- **API**: Fetch
 - **Tooling**: Vite, ESLint, Prettier
 
 ## Getting started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/anastasia-kravchuk/TodoApp.git
-cd TodoApp
+git clone https://github.com/anastasia-kravchuk/todo-app-react-typescript.git
+cd todo-app-react-typescript
 ```
 2. Install dependencies:
 ```bash
